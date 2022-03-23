@@ -1,2 +1,2 @@
-# suricata-rules-generator
-ma io che cazzo ne so, nel dubbio simpo per kari
+#Suricata rules generator for CTFS
+Please do not use this in production. CSS from the online crontab-generator.
